@@ -3,7 +3,8 @@
     height: 60px;
     width: 60px;
     background-color: rgba(227, 203, 174, 0.3);
-    margin: auto;
+    margin: 0 auto;
+    line-height: 60px;
 }
 
 .circle i {
@@ -15,5 +16,4 @@
 hr {
     width: 25%;
     margin: -10px auto 40px auto;
-    margin
 }
