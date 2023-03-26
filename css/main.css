@@ -1,0 +1,19 @@
+.circle {
+    border-radius: 50%;
+    height: 60px;
+    width: 60px;
+    background-color: rgba(227, 203, 174, 0.3);
+    margin: auto;
+}
+
+.circle i {
+    color: #ff9300;
+    font-size: 30px;
+    line-height: 60px;
+}
+
+hr {
+    width: 25%;
+    margin: -10px auto 40px auto;
+    margin
+}
