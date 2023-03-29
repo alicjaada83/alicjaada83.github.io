@@ -1,0 +1,32 @@
+p {
+    margin-bottom: 0px;
+}
+#linia {
+    width: 25%;
+    margin: 0px auto 40px auto;
+}
+
+.btn1 {
+    color: orange;
+}
+
+.btn1:hover {
+    color: rgb(33, 32, 32);
+    text-decoration: underline;
+}
+
+.accordion-header {
+    background-color: rgb(225, 225, 225);
+    width: 100%;   
+}
+
+.accordion-item {
+    border-style: thin;
+    border-color: rgb(206, 204, 204);
+}
+
+.accordion-body {
+    font-size: small;
+    border-style: thin;
+    border-color: rgb(206, 204, 204);
+}
